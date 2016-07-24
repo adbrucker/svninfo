@@ -1,15 +1,19 @@
+svninfo'
+=======
 
-			`svninfo'
+* Version 0.7.4 
+* Release date: 23 March 2010
 
-		version 0.7.4, March 23, 2010
-
+Description
+-----------
 This package is used to extract the revision and file information provided
 by the subversion revision control system.
 
 Copyright (C) 2003-2010 Achim D. Brucker
 email: brucker@member.fsf.org 
 
-License:
+License
+-------
    This program can be redistributed and/or modified under the terms
    of the LaTeX Project Public License Distributed from CTAN
    archives in directory macros/latex/base/lppl.txt; either
@@ -24,6 +28,8 @@ distributed together with all the following files:
 
 If you receive only some of these files from someone, complain!
 
+Installation
+------------
 To install:
   unpack and
   `make'
@@ -46,9 +52,9 @@ to a place where LaTeX can find it
 	TEXINPUTS=$HOME/tex/inputs//:$TEXINPUTS
   )
 
-============================================================================
 
-HISTORY
+Changelog
+---------
 0.7.4 : Fixed localization of date formats, e.g., \svnToday.
 0.7.3 : Fixed bug resulting in wrong date for maximal 
         revision (\svnInfoMaxToday).

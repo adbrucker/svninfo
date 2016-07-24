@@ -27,7 +27,7 @@ TAR	   = tar
 REV		= 0.7.4
 TAR_FILE	= svninfo-$(REV).tar.gz
 TAR_DIR		= svninfo-$(REV)
-SRC		= svninfo.dtx svninfo.ins README Makefile
+SRC		= svninfo.dtx svninfo.ins README.md Makefile
 GEN		= svninfo.sty svninfo.cfg svninfo.init
 
 all:		$(BASE).sty dvi ps pdf clean
