@@ -7,8 +7,6 @@ Description
 This package is used to extract the revision and file information provided
 by the subversion revision control system.
 
-Copyright (C) 2003-2010 [Achim D. Brucker](https://www.brucker.ch)
-
 License
 -------
    This program can be redistributed and/or modified under the terms
