@@ -1,14 +1,12 @@
-svninfo
-=======
+# svninfo
+
 Version 0.7.4, 23 March 2010
 
-Description
------------
+## Description
 This package is used to extract the revision and file information provided
 by the subversion revision control system.
 
-Installation
-------------
+## Installation
 To install: unpack and
 ```
     make
@@ -41,12 +39,12 @@ and set the environment variable
     TEXINPUTS=$HOME/tex/inputs//:$TEXINPUTS
 ```
 
-License
--------
-   This program can be redistributed and/or modified under the terms
-   of the LaTeX Project Public License Distributed from CTAN
-   archives in directory macros/latex/base/lppl.txt; either
-   version 1.3c of the License, or (at your opinion) any later version.
+## License
+
+This program can be redistributed and/or modified under the terms of the LaTeX
+Project Public License Distributed from CTAN archives in directory 
+macros/latex/base/lppl.txt; either version 1.3c of the License, or (at your
+opinion) any later version.
 
 You are allowed to distribute this file under the condition that it is
 distributed together with all the following files:
