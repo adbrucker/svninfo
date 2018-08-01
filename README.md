@@ -55,3 +55,5 @@ distributed together with all the following files:
    README
 ```
 If you receive only some of these files from someone, complain!
+
+SPDX-License-Identifier: LPPL-1.3c+
