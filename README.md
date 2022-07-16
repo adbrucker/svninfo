@@ -25,7 +25,7 @@ For each of these items a macro is defined. When updating a file, the Subversion
 keywords should be contained in the updated source. Further, one has to set the
 Subversion property for keyword expansion of that file, e.g.
 
-```LaTeX
+```shell
 svn propset svn:keywords "Id" svninfo.dtx
 ```
 
